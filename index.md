@@ -1,5 +1,5 @@
 ---
-layout: homepage
+layout: default
 ---
 
 # Towako Wunsch | Astrophysics Undergraduate Student
