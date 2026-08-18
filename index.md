@@ -1,6 +1,10 @@
+---
+layout: homepage
+---
+
 # Towako Wunsch | Astrophysics Undergraduate Student
 ## About Me
---- WIP---
+WIP
 
 ## Academic History
 GPA: 3.82
