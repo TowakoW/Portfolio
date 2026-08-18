@@ -1,31 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
-    <title>Towako Wunsch | Astrophysics Undergraduate Student</title>
-
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.">
-    
-    <meta name="keywords" content="minimal light">
-    
-    
-    <link rel="canonical" href="https://minimal-light-theme.yliu.me/"/>
-    
-
-    <link rel="icon" media="(prefers-color-scheme:dark)" href="./assets/img/favicon-dark.png" type="image/png" />
-    <link rel="icon" media="(prefers-color-scheme:light)" href="./assets/img/favicon.png" type="image/png" />
-    <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
-
-    <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous>
-    <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin=anonymous>
-
-    
-    <link rel="stylesheet" href="./assets/css/style.css">
-    <link rel="stylesheet" href="./assets/css/publications.css">
-    
-
+    <title>Towako Wunsch | Astrophysics Undergraduate Student</title>  
   </head>
   <body>
     <div class="wrapper">
@@ -35,14 +11,14 @@
         <a class="image avatar"><img src="./assets/img/avatar.png" alt="avatar" /></a>
         
 
-        <h1>Your Name</h1>
+        <h1>Towako Wunsch</h1>
 
         
-        <position style="font-size:1.10rem;">Ph.D. Student</position>
+        <position style="font-size:1.10rem;">Astrophysics Undergraduate Student</position>
         <br>
         
         
-        <a href="" rel="noopener"><autocolor>Your Affiliation</autocolor></a>
+        <a href="" rel="noopener"><autocolor>UC Berkeley</autocolor></a>
         <br>
         
         
