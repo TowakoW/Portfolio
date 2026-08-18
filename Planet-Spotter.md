@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 ### Planet Spotter
-*  *Work in progress* program that pulls from NASA JPL's Horizons API to graph real-time location data for all planets (+ Pluto) in our solar system. The program then uses the Self-Implicit Euler method to simulate short term planet motion about the Sun. This is my first larger project, and I am continuing to update it as I learn more coding.
+*Work in progress* program that pulls from NASA JPL's Horizons API to graph real-time location data for all planets (+ Pluto) in our solar system. The program then uses the Self-Implicit Euler method to simulate short term planet motion about the Sun. This is my first larger project, and I am continuing to update it as I learn more coding.
 
 Planet Spotter is a simple program that pulls planet data from NASA JPL's Horizons API and creates a short term simulation based on initial values. The goal is to create a program that allows users to see current planet locations relative to their current location on earth, as well as one of my first endeavors to become more familar with Python programming!
 
