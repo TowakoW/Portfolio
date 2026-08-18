@@ -86,6 +86,7 @@ work in progress...
 *Shot taken on Aug 17, 2026 at 10:35 PM*
  **8-Month Physics simulation demo:**
 
+<iframe src="/TowakoW/interactive_track.html" width="100%" height="600px" style="border:none;"></iframe>
  
 *Shot taken starting on Aug 17, 2026 at 11:25 PM*
 
