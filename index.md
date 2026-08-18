@@ -4,11 +4,14 @@ layout: homepage
 
 # Towako Wunsch | Astrophysics Undergraduate Student
 ## About Me
-WIP
+Hello World! 
+I am a sophomore undergraduate student at UC Berkeley majoring in Astrophysics with a minor in History. I am deeply interested in the intersection between mathematical theory and scientific computing, and how they can be used to analyze the worlds beyond ours. Thanks for visiting my portfolio!
 
 ## Academic History
 GPA: 3.82
-### Major Classes taken:
+### Classes Taken:
+* Data c8
+* Astron 98 (Python for Astronomers DeCal)
 * Math 51/Math 52
 * Multivariable Calculus (Community college transfer credit, Grade: A)
 * Physics 7A
