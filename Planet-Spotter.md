@@ -4,7 +4,9 @@ title: Projects
 permalink: /projects/
 ---
 
-### Planet Spotter
+# Planet Spotter
+
+[Link to Github Repository](https://github.com/TowakoW/Planet-Spotter)
 
 *Work in progress* 
 
