@@ -13,12 +13,15 @@ Real-time information is fetched from NASA JPL Horizons API for all planets in t
 
 The received output is parsed to take only each object's GM (km^3/s^2) and ephemeris data (x, y, z, vx, vy, vz).
 
+
 ### Step 2: Initial Plotting
 
 The parsed data is plotted on a 3d graph with matplotlib.pyplot.
 
+
 ### Step 3: Physics Simulation
 Using the Semi-Implicit Euler method, the locations of the planets are calculated and updated on the graph.
+
 
 #### Acceleration Calculation:
 
@@ -33,6 +36,7 @@ a: np.ndarray
    > Gravitational acceleration array to be modified, shape (N, 3), (km/s^2)
   
 **a = sum(GM/r_norm^3 * r_ij)**
+
 
 #### Semi-Implicit Euler Calculation:
 
@@ -54,14 +58,17 @@ a: np.ndarray
   
   **system.x += system.v * dt**
 
+
 ### Step 4: Live-Updating Graph
 
 Uses matplotlib.pyplot.ion() to create an interactive, live-updating graph for a specified period of time. Start time is taken using datetime library, and starts at the time of calling main(). The program then switches to the physics simulation to continue updating based on positional and directional values from the Horizons API.
+
 
 #### Reference:
   
 ["5 Steps to N-body Simulation" by alvinng4:] 
 (https://alvinng4.github.io/grav_sim/5_steps_to_n_body_simulation/step2/#implementation-3-advanced)
+
 
 ### Step 4: Translating to Local Perspectives
 work in progress...
@@ -71,9 +78,11 @@ work in progress...
 
 ["5 steps to N-body simulation" by alvinng4](https://alvinng4.github.io/grav_sim/5_steps_to_n_body_simulation/)
 
+
 ### Next Steps...
 * Convert cartesian coordinates to RA/DEC from the perspective of a specific point on Earth to show relative planet locations for viewers of the night sky
 * Add moons and satellites
+
 
 ### See below for demo interactive 3D graph:
 
