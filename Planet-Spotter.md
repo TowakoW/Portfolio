@@ -14,9 +14,8 @@ Real-time information is fetched from NASA JPL Horizons API for all planets in t
 The received output is parsed to take only each object's GM (km^3/s^2) and ephemeris data (x, y, z, vx, vy, vz).
 
 ### Step 2: Initial Plotting
-planet_data.py planet_calc.py
 
-The parsed data is plotted on an interactive 3d graph with matplotlib.pyplot.
+The parsed data is plotted on a 3d graph with matplotlib.pyplot.
 
 ### Step 3: Physics Simulation
 Using the Semi-Implicit Euler method, the locations of the planets are calculated and updated on the graph.
@@ -55,7 +54,10 @@ a: np.ndarray
   
   **system.x += system.v * dt**
 
-        
+### Step 4: Live-Updating Graph
+
+Uses matplotlib.pyplot.ion() to create an interactive, live-updating graph for a specified period of time. Start time is taken using datetime library, and starts at the time of calling main(). The program then switches to the physics simulation to continue updating based on positional and directional values from the Horizons API.
+
 #### Reference:
   
 ["5 Steps to N-body Simulation" by alvinng4:] 
