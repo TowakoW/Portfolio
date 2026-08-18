@@ -75,12 +75,18 @@ work in progress...
 * Convert cartesian coordinates to RA/DEC from the perspective of a specific point on Earth to show relative planet locations for viewers of the night sky
 * Add moons and satellites
 
-**See below for demo interactive 3D graph:**
+### See below for demo interactive 3D graph:
 
 (Not live-updating due to Github website limitations)
+
+**Initial plot taken from Horizons API:**
 
 <iframe src="/TowakoW/interactive_orbit.html" width="100%" height="600px" style="border:none;"></iframe>
 
 *Shot taken on Aug 17, 2026 at 10:35 PM*
+ **8-Month Physics simulation demo:**
+
+ 
+*Shot taken starting on Aug 17, 2026 at 11:25 PM*
 
 <a href="/TowakoW/" class="btn btn-sm z-depth-0" role="button">Back to Home</a>
