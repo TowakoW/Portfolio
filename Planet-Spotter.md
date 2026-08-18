@@ -1,10 +1,14 @@
 ---
+layout: homepage
 title: Projects
 permalink: /projects/
 ---
 
 ### Planet Spotter
-*Work in progress* Planet Spotter is a simple program that pulls from NASA JPL's Horizons API and creates a short term simulation based on initial values. The goal is to create a program that allows users to see current planet locations relative to their current location on earth, as well as one of my first endeavors to become more familar with Python programming!
+
+*Work in progress* 
+
+Planet Spotter is a simple program that pulls from NASA JPL's Horizons API and creates a short term simulation based on initial values. The goal is to create a program that allows users to see current planet locations relative to their current location on earth, as well as one of my first endeavors to become more familar with Python programming!
 
 ## Method
 ### Step 1: Horizons API
