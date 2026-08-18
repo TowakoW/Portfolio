@@ -23,22 +23,42 @@ The parsed data is plotted on an interactive 3d graph with matplotlib.pyplot.
 ### Step 3: Physics Simulation
 Using the Semi-Implicit Euler method, the locations of the planets are calculated and updated on the graph.
 
-**Acceleration Calculation:**
-Parameters:
+#### Acceleration Calculation:
+
+*Parameters:*
   
 system: System
   
- System object ("solar_system")
+   > System object ("solar_system")
   
 a: np.ndarray
   
- Gravitational acceleration array to be modified, shape (N, 3), (km/s^2)
-
-Equation:
+   > Gravitational acceleration array to be modified, shape (N, 3), (km/s^2)
   
-a = sum(GM/r_norm^3 * r_ij)
+**a = sum(GM/r_norm^3 * r_ij)**
+
+#### Semi-Implicit Euler Calculation:
+
+*Parameters:*
+
+system: System
+
+  > system object ("solar_system"), system.v = system velocity
+  
+dt: float
+
+  > time step.
+  
+a: np.ndarray
+
+  > Gravitational accelerations array with shape (N, 3), (km/s^2).
+
+  **system.v += a * dt**
+  
+  **system.x += system.v * dt**
+
         
-Reference:
+#### Reference:
   
 ["5 Steps to N-body Simulation" by alvinng4:] 
 (https://alvinng4.github.io/grav_sim/5_steps_to_n_body_simulation/step2/#implementation-3-advanced)
