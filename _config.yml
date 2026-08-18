@@ -1,3 +1,18 @@
 remote_theme: yaoyao-liu/minimal-light
-title: Towako W Portfolio
+
+# Basic Information
+title: Towako Wunsch
 description: Projects and About Me!
+position: Undergrad Astrophysics Student
+affiliation: UC Berkeley
+email: towakowunsch@berkeley.edu
+
+# Links:
+github_link: https://github.com/TowakoW
+linkedin: https://www.linkedin.com/in/towako-wunsch/
+
+# Footnote
+enable_footnote: true
+
+# Font
+font: "Serif"
