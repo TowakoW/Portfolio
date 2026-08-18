@@ -52,15 +52,17 @@ Reference
 ### Step 4: Translating to Local Perspectives
 work in progress...
 
-Resources
-NASA JPL Horizons API: https://ssd.jpl.nasa.gov/horizons/
+## Resources
+[NASA JPL Horizons API](https://ssd.jpl.nasa.gov/horizons/)
 
-["5 steps to N-body simulation" by alvinng4:](https://alvinng4.github.io/grav_sim/5_steps_to_n_body_simulation/)
+["5 steps to N-body simulation" by alvinng4](https://alvinng4.github.io/grav_sim/5_steps_to_n_body_simulation/)
 
 ### Next Steps...
-Convert cartesian coordinates to RA/DEC from the perspective of a specific point on Earth to show relative planet locations for viewers of the night sky/add moons and other satellites.
+* Convert cartesian coordinates to RA/DEC from the perspective of a specific point on Earth to show relative planet locations for viewers of the night sky
+* Add moons and satellites
 
 **See below for demo interactive 3D graph:**
+
 (Not live-updating due to Github website limitations)
 
 <iframe src="/TowakoW/interactive_orbit.html" width="100%" height="600px" style="border:none;"></iframe>
