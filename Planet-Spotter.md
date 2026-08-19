@@ -72,8 +72,7 @@ Uses matplotlib.pyplot.ion() to create an interactive, live-updating graph for a
 
 #### Reference:
   
-["5 Steps to N-body Simulation" by alvinng4:] 
-(https://alvinng4.github.io/grav_sim/5_steps_to_n_body_simulation/step2/#implementation-3-advanced)
+["5 Steps to N-body Simulation" by alvinng4:](https://alvinng4.github.io/grav_sim/5_steps_to_n_body_simulation/step2/#implementation-3-advanced)
 
 
 ### Step 4: Translating to Local Perspectives
