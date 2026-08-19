@@ -1,15 +1,15 @@
 remote_theme: jekyll/minima
 
-# # Basic Information
+# Basic Information
 # title: Towako Wunsch
-# description: Projects and About Me!
+description: Projects and About Me!
 # position: 
-# affiliation: UC Berkeley
-# email: towakowunsch@berkeley.edu
+affiliation: UC Berkeley
+email: towakowunsch@berkeley.edu
 
-# # Links:
-# github_link: https://github.com/TowakoW
-# linkedin: https://www.linkedin.com/in/towako-wunsch/
+# Links:
+github_link: https://github.com/TowakoW
+linkedin: https://www.linkedin.com/in/towako-wunsch/
 
 # # Footnote
 # enable_footnote: true
