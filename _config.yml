@@ -1,20 +1,19 @@
 remote_theme: jekyll/minima
-
 theme: minima
 
 minima:
   nav_pages:
-    - [Home](index.md)
-    - [Projects](Planet_Spotter.md)
-    social_links:
-      - title: Planet Spotter at Github
-        icon: github
-        url: "https://github.com/TowakoW/Planet-Spotter"
-      - title: Linked In
-        icon: linkedin
-        url: "https://www.linkedin.com/in/towako-wunsch/"
+    - index.md
+    - Planet_Spotter.md
+
+social_links:
+  - title: Planet Spotter at Github
+    icon: github
+    url: "https://github.com/TowakoW/Planet-Spotter"
+  - title: Linked In
+    icon: linkedin
+    url: "https://www.linkedin.com/in/towako-wunsch/"
 
 author:
   name: Towako Wunsch
   email: towakowunsch@berkeley.edu
-  
