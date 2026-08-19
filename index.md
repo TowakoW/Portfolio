@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: home
 ---
 
 # Towako Wunsch | Astrophysics Undergraduate Student
+
+happy to be here, even happier to learn
 
 ## About Me
 Hello World! 
