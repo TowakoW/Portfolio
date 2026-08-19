@@ -26,6 +26,7 @@ GPA: 3.82
 * Math 52
 * Multivariable Calculus (Community college transfer credit, Grade: A)
 * Physics 7A
+
 ### Currently Enrolled (Fall 2026):
 * Math 54
 * Physics 7B
