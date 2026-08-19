@@ -2,7 +2,9 @@
 layout: home
 ---
 
-# Towako Wunsch | Astrophysics Undergraduate Student
+<html>
+  <h1>Towako Wunsch | Astrophysics Undergraduate Student</h1>
+</html>
 
 happy to be here, even happier to learn!
 
