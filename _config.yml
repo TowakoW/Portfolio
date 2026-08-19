@@ -1,18 +1,20 @@
 remote_theme: jekyll/minima
 
-# Basic Information
-# title: Towako Wunsch
-description: Projects and About Me!
-# position: 
-affiliation: UC Berkeley
-email: towakowunsch@berkeley.edu
+theme: minima
 
-# Links:
-github_link: https://github.com/TowakoW
-linkedin: https://www.linkedin.com/in/towako-wunsch/
+minima:
+  nav_pages:
+    - [Home](index.md)
+    - [Projects](Planet_Spotter.md)
+    social_links:
+      - title: Planet Spotter at Github
+        icon: github
+        url: "https://github.com/TowakoW/Planet-Spotter"
+      - title: Linked In
+        icon: linkedin
+        url: "https://www.linkedin.com/in/towako-wunsch/"
 
-# # Footnote
-# enable_footnote: true
-
-# # Font
-# font: "Serif"
+author:
+  name: Towako Wunsch
+  email: towakowunsch@berkeley.edu
+  
