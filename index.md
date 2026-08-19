@@ -3,7 +3,8 @@ layout: home
 ---
 
 <html>
-  <h1>Towako Wunsch | Astrophysics Undergraduate Student</h1>
+  <h1>Towako Wunsch</h1>
+  <h2>Astrophysics Undergraduate Student</h2>
 </html>
 
 happy to be here, even happier to learn!
