@@ -11,6 +11,7 @@ happy to be here, even happier to learn!
 
 ## About Me
 Hello World! 
+
 I am a sophomore undergraduate student at UC Berkeley majoring in Astrophysics with a minor in History. I am deeply interested in the intersection between mathematical theory and scientific computing, and how they can be used to analyze the worlds beyond ours. Thanks for visiting my portfolio!
 
 ## Projects
