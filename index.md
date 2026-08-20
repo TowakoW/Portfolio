@@ -17,7 +17,7 @@ I am a sophomore undergraduate student at UC Berkeley majoring in Astrophysics w
 ## Projects
 <a href="/TowakoW/projects/" class="btn btn-sm z-depth-0" role="button">View Projects</a>
 * **Planet Spotter**
-  * work in progress program that pulls from NASA JPL's Horizons API to graph real-time location data for all planets (+ Pluto) in our solar system.\
+  * work in progress program that pulls from NASA JPL's Horizons API to graph real-time location data for all planets (+ Pluto) in our solar system.
 
 ## Education
 B.A. Astrophysics | UC Berkeley (Spring 2029)
