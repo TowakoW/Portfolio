@@ -75,8 +75,10 @@ Uses matplotlib.pyplot.ion() to create an interactive, live-updating graph for a
 ["5 Steps to N-body Simulation" by alvinng4:](https://alvinng4.github.io/grav_sim/5_steps_to_n_body_simulation/step2/#implementation-3-advanced)
 
 
-### Step 4: Translating to Local Perspectives
+### Step 5: Translating to Local Perspectives
 work in progress...
+
+Converting Sun-centric cartesian coordinates (x, y, z) to a topocentric spherical coordinate graph (r, RA, DEC). Looking for a way to efficiently take location data with a python library...
 
 ## Resources
 [NASA JPL Horizons API](https://ssd.jpl.nasa.gov/horizons/)
